@@ -3,7 +3,8 @@ A rat in a maze is a very popular backtracking problem. A Maze is given as N*N b
 In the maze matrix, 0 denotes that the road or path which is blocked or dead and 1 means that the block can be used in the path from source to destination.
 
 Description of Input and Output:
-![image](https://user-images.githubusercontent.com/90863360/182779386-ff6226ee-d9cd-4d36-96af-af270eb83f97.png)
-![image](https://user-images.githubusercontent.com/90863360/182779550-87f82272-2aa7-426c-80a9-ea7538e83ea8.png)
+![image](https://user-images.githubusercontent.com/90863360/182780048-1f733c11-486a-463f-b475-3d8410182049.png)
+
+![image](https://user-images.githubusercontent.com/90863360/182780107-7fc1c1a5-2952-4a92-be4b-815a922da7ee.png)
 
 Code Implementation, Time complexity is also mentioned in the files. 
