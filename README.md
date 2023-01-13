@@ -4,8 +4,12 @@ In the maze matrix, 0 denotes that the road or path which is blocked or dead and
 
 Description of Input and Output:
 
-![image](https://user-images.githubusercontent.com/90863360/182780306-78c3544b-4e18-43d7-b369-a71f550eff10.png)
+<p align="center">
+  <img width="200" height = "400" alt="Img1" src="https://user-images.githubusercontent.com/90863360/182780306-78c3544b-4e18-43d7-b369-a71f550eff10.png">
+  
+  <img width="200" height = "400" alt="Img2" src="https://user-images.githubusercontent.com/90863360/182780339-ea94b6be-7d68-463f-97b2-9036abffafd1.png">
 
-![image](https://user-images.githubusercontent.com/90863360/182780339-ea94b6be-7d68-463f-97b2-9036abffafd1.png)
+</p>
+
 
 Code Implementation, Time complexity is also mentioned in the files. 
